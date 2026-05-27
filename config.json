@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadervave",
+        "uuid": 4284896,
+        "checksum": "3mubie"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
